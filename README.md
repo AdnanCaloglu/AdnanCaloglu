@@ -1,4 +1,5 @@
-# Hi, I'm Adnan Kaan Çaloğlu (Fez)
+# Hi, I'm Adnan Kaan Çaloğlu 
+Also known as **FezisOut** in the Minecraft development community.
 
 ### Gameplay Systems Developer | Minecraft Infrastructure | Technical Designer
 
@@ -137,6 +138,6 @@ Competitive PvP ranking platform consisting of:
 
 ## 📫 Contact
 
-Discord: **Fez**
+Discord: **fezisout_**
 
-Email: **fezisout@yandex.com**
+Email: **adnankaancaloglu@gmail.com**
