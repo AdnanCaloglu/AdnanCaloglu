@@ -1,16 +1,142 @@
-## Hi there 👋
+# Hi, I'm Adnan Kaan Çaloğlu (Fez)
 
-<!--
-**AdnanCaloglu/AdnanCaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Gameplay Systems Developer | Minecraft Infrastructure | Technical Designer
 
-Here are some ideas to get you started:
+I'm a developer passionate about building large-scale multiplayer experiences, gameplay systems, and technical tools for Minecraft communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into polished mechanics, solving complex gameplay problems, and creating systems that improve both the player and staff experience.
+
+---
+
+## 🚀 Current Projects
+
+- 🔨 SeraphEngine *(Private)*
+- 🎮 Verphor Client *(Private)*
+- 🌐 Vanguard Tierlists Platform *(Website, Discord Bot & Database)*
+- 🧩 Open Source Minecraft Projects
+- ⚡ Large Scale Multiplayer Event Systems
+
+---
+
+## 💻 Technologies
+
+### Languages
+
+- Java
+- TypeScript
+- JavaScript
+- SQL (Learning)
+
+### Minecraft
+
+- Paper API
+- Fabric API
+- Skript
+- Datapacks
+- MythicMobs
+- ModelEngine
+
+### Tools
+
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+- Gradle
+- Docker (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Software Architecture
+- Networking
+- Backend Development
+- Performance Optimization
+
+---
+
+# 🏗 Experience
+
+## Gameplay Systems Developer — Literature Civilization (LitCiv)
+
+- Designed gameplay mechanics and event systems.
+- Developed plugins, Skripts and supporting tools.
+- Assisted with large-scale event operations.
+- Worked alongside developers and event staff.
+
+---
+
+## Developer & Event Staff — Luctoria
+
+- Developed custom gameplay features.
+- Assisted in event planning and management.
+- Built internal tools for staff.
+
+---
+
+## Translator & Gameplay Tester — Hoplite Network
+
+- Localized game content.
+- Reported gameplay issues and exploits.
+- Tested new features before release.
+
+---
+
+## Event Staff — Cl1pzMC
+
+- Assisted with event hosting.
+- Moderated players.
+- Helped maintain gameplay quality.
+
+---
+
+# 🚀 Featured Projects
+
+### SeraphEngine *(Private)*
+
+A modular gameplay framework designed for custom multiplayer experiences.
+
+Responsibilities
+
+- Gameplay systems design
+- Technical planning
+- Bug investigation
+- Exploit prevention
+- Performance optimization
+
+---
+
+### Vanguard Tierlists *(Private)*
+
+Competitive PvP ranking platform consisting of:
+
+- Website
+- Discord Bot
+- Backend Database
+
+---
+
+### Open Source
+
+- 🟢 FrameSaver *(Under Review)*
+- 🟢 Better Bow Boost
+- 🟢 CycleControl
+
+---
+
+# 🎯 Goals
+
+- Build scalable multiplayer systems.
+- Continue improving as a Java developer.
+- Learn enterprise software engineering practices.
+- Contribute to ambitious projects that reach thousands of players.
+
+---
+
+## 📫 Contact
+
+Discord: **Fez**
+
+Email: **fezisout@yandex.com**
