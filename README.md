@@ -123,7 +123,7 @@ Competitive PvP ranking platform consisting of:
 
 - 🟢 FrameSaver *(Under Review)*
 - 🟢 Better Bow Boost
-- 🟢 CycleControl
+- 🟢 [CycleControl](https://github.com/AdnanCaloglu/CycleControl)
 
 ---
 
